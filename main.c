@@ -4,6 +4,6 @@ int main() {
     printf("===== STUDENT MANAGER =====\n");
     printf("1. Add student\n");
     printf("2. Show students\n");
-
+    printf("Hello everyone");
     return 0;
 }
